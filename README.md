@@ -36,6 +36,6 @@ The goal of the site is lead generation through a structured landing page and a 
 - documentation
   Deployment notes and project build notes
   
-##Live website
+## Live Website
 
   https://coach.konstadinos-tsakalakis.com/
