@@ -36,10 +36,5 @@ The goal of the site is lead generation through a structured landing page and a 
 - documentation
   Deployment notes and project build notes
 
-## Screenshots
-![Hero](screenshots/01-hero.png)
-![Who this is for](screenshots/02-who-this-is-for.png)
-![Three pillars](screenshots/03-three-pillars.png)
-![12 week journey](screenshots/04-12-week-journey.png)
-![Your coach](screenshots/05-your-coach.png)
-![Application form](screenshots/06~07-application-form.png)
+  ##Live website
+  https://coach.konstadinos-tsakalakis.com/
