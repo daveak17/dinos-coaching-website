@@ -35,6 +35,7 @@ The goal of the site is lead generation through a structured landing page and a 
   Nginx server block configuration for the coaching site
 - documentation
   Deployment notes and project build notes
+  
+##Live website
 
-  ##Live website
   https://coach.konstadinos-tsakalakis.com/
